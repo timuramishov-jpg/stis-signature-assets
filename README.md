@@ -9,6 +9,7 @@ Public image assets for the STiS email signature: the logo and four social icons
 | `stis-logo.png` | STiS logo, 1200 px, white letters |
 | `stis-logo.svg` | Vector logo |
 | `signature-template.html` | HTML signature template with placeholders instead of personal data |
+| `signature-mobile-template.txt` | Plain-text signature for Outlook mobile (placeholders) |
 | `icon-telegram.png` | Telegram icon, 48 px |
 | `icon-max.png` | MAX icon, 48 px |
 | `icon-vk.png` | VK icon, 48 px |
@@ -27,6 +28,8 @@ https://timuramishov-jpg.github.io/stis-signature-assets/icon-youtube.png
 ## Signature template
 
 `signature-template.html` is the full HTML signature with placeholder name, role, phones and email. Replace them with the employee data and paste into Gmail, Outlook or Apple Mail. Images already point to GitHub Pages.
+
+`signature-mobile-template.txt` is the plain-text version for Outlook on iOS/Android — the mobile app does not support HTML signatures or images.
 
 ## Note
 
